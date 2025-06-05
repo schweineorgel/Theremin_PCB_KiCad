@@ -1,0 +1,17 @@
+# Backup and autosave files
+*.bak
+*.tmp
+*.log
+*.net
+*-bak.kicad_pcb
+*-bak.kicad_sch
+
+# Cache, build, or output files
+*.drl
+*.gbr
+*.zip
+*.kicad_pcb-bak
+
+# OS files
+.DS_Store
+Thumbs.db
